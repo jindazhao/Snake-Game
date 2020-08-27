@@ -1,4 +1,4 @@
 # Snake-Game
-Got Bored so I decided to make a small game
+Got bored so I decided to made a small game
 
 Inspired by: https://github.com/A2andil
